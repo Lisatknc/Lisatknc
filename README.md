@@ -5,4 +5,4 @@ I have a 2+ years of an experience as a web designer.<br>
 Looking for a position as a frontend developer.
 Open for a remote work as well!
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,js,figma,heroku,ai,ps,xd,pr,ruby,sass,rails,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,figma,heroku,ai,ps,xd,pr,ruby,sass,rails,vscode)](https://skillicons.dev)
